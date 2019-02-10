@@ -55,7 +55,7 @@
 							<!-- <input class="btn btn-primary" type="submit" value="Register" /> -->
 							<input type="submit" value="Register">
 														<input type="submit" value="Register">
-							
+							<input type="submit" value="Register">
 						</div>
 					</div>
 				</form:form>
