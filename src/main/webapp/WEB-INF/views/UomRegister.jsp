@@ -52,7 +52,8 @@
 					<div class="row">
 						<div class="col-4"></div>
 						<div class="col-6">
-							<input class="btn btn-primary" type="submit" value="Register" />
+							<!-- <input class="btn btn-primary" type="submit" value="Register" /> -->
+							<input type="submit" value="Register">
 						</div>
 					</div>
 				</form:form>

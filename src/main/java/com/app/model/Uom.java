@@ -19,6 +19,7 @@ public class Uom {
 	private String uomModel;
 	@Column(name="udsc")
 	private String uomDsc;
+	
 	public Uom() {
 		super();
 	}
